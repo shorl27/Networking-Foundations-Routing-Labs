@@ -252,3 +252,10 @@ The key translation was:
 ```
 
 This confirmed that the private PC's traffic was successfully translated before reaching the outside network.
+
+
+🔐 Security Relevance
+
+NAT/PAT is not itself a security control, but understanding address translation is important when analyzing enterprise network traffic.
+
+This lab also demonstrates how source addresses can change as traffic crosses network boundaries, which is important when interpreting firewall logs, packet captures, and incident investigations.
