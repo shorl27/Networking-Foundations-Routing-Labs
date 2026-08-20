@@ -62,7 +62,7 @@ DMZ Architecture
 Traffic Filtering
         ↓
 Network Security
-
+```
 
 
 🧪 Lab Methodology
