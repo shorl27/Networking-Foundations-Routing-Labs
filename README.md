@@ -64,7 +64,7 @@ Traffic Filtering
 Network Security
 ```
 
-
+```text
 🧪 Lab Methodology
 
 Each lab follows a practical engineering workflow:
@@ -98,7 +98,8 @@ Each lab follows a practical engineering workflow:
 └─────────────────────┘
 
 This approach is intended to develop practical troubleshooting and security-analysis skills rather than simply memorizing commands.
-
+```
+```text
 🛠️ Technologies
 Cisco Packet Tracer
 Cisco IOS
