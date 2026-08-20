@@ -1,4 +1,11 @@
-DMZ Network Segmentation & ACL Security Lab
+Enterprise DMZ Network Segmentation & ACL Security Lab
+
+Designed and secured a simulated enterprise network using VLAN segmentation, Router-on-a-Stick, a DMZ architecture, and Extended ACLs.
+
+The lab follows a security workflow:
+
+Build → Establish Baseline → Define Policy → Implement Controls → Attack/Test → Verify → Troubleshoot
+
 📌 Overview
 
 This lab demonstrates how to design and secure a segmented company network using Cisco Packet Tracer.
