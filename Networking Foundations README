@@ -307,27 +307,6 @@ no shutdown
 
 ---
 
-# 📈 Progression
-
-This repository will continue to grow as I build increasingly realistic networking and cybersecurity labs.
-
-Planned topics include:
-
-* [ ] Subnetting & CIDR
-* [ ] VLANs
-* [ ] Trunking
-* [ ] Inter-VLAN Routing
-* [ ] DHCP
-* [ ] DNS
-* [ ] NAT/PAT
-* [ ] TCP/UDP & Ports
-* [ ] Access Control Lists
-* [ ] Firewalls
-* [ ] VPNs
-* [ ] Nmap
-* [ ] Wireshark
-* [ ] Vulnerability Scanning
-* [ ] Small-Business Network Security
 
 ---
 
